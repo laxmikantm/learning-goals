@@ -1,9 +1,9 @@
 # learning-goals
-The topics I want a better understanding of going into 2019
+The topics I want a better understanding of going into Autum & Winter 2019
 
 ## Motivation
 
-I read the [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) and realised there's gaps in my understanding of JavaScript and a bunch of other important stuff too. These gaps can be plugged by setting aside time for study or building small prototypes. I want to look back come the end of 2019 and see that I've made headway to bridging these gaps in my understanding.
+We read the [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) and realised there's gaps in my understanding of JavaScript and a bunch of other important stuff too. These gaps can be plugged by setting aside time for study or building small prototypes. I want to look back come the end of 2019 and see that I've made headway to bridging these gaps in my understanding.
 
 ## Topics and Outcomes
 
